@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20DaeSoo%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+<br>
 
 <!--
 **DaeSoo/DaeSoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +18,5 @@ Here are some ideas to get you started:
 
 
 ![DaeSoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeSoo&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeSoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
